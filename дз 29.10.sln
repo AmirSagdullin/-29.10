@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For Dina", "For Dina\For Dina.csproj", "{8D532697-4EA4-4611-B65C-A29162953361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov", "Tumakov\Tumakov.csproj", "{BE5DCC12-C8EE-48C2-82DD-57854D5B8739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D532697-4EA4-4611-B65C-A29162953361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D532697-4EA4-4611-B65C-A29162953361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D532697-4EA4-4611-B65C-A29162953361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D532697-4EA4-4611-B65C-A29162953361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5DCC12-C8EE-48C2-82DD-57854D5B8739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5DCC12-C8EE-48C2-82DD-57854D5B8739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5DCC12-C8EE-48C2-82DD-57854D5B8739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5DCC12-C8EE-48C2-82DD-57854D5B8739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0120E9C-749C-4BF9-85F2-4CA2ADA19723}
+	EndGlobalSection
+EndGlobal
